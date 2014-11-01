@@ -9,4 +9,9 @@ do that with ease.
 In order to know how to use this, have a look at the example given in the file "index.php".
 
 
+License
+=======
+Crystal is open-sourced licensed under the MIT license
+
+
 
